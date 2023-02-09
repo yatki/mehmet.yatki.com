@@ -67,3 +67,8 @@
   margin-right: 15px;
   margin-bottom: 15px;
 }
+
+.print-break {
+  display: none;
+  height: 100px;
+}

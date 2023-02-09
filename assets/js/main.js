@@ -13,6 +13,7 @@ jQuery(document).ready(function ($) {
     $(".hidden-print").css("display", "none");
     $(".container-block").css("padding", "20px 30px");
     $(".main-wrapper").css("min-height", "1390px");
+    $(".print-break").css("display", "block");
   }
 
   /*======= Skillset *=======*/
